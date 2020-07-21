@@ -7,7 +7,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/sismed?style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/HigorSnt/ecoleta?style=flat-square">
   <img alt="Jest" src="https://jestjs.io/img/jest-badge.svg"></br>
-  <a href="https://insomnia.rest/run/?label=sismed&uri=https%3A%2F%2Fraw.githubusercontent.com%HigorSnt%2Fsismed%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/run/?label=sismed&uri=https%3A%2F%2Fraw.githubusercontent.com%2FHigorSnt%2Fsismed%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## :bookmark: Sobre
