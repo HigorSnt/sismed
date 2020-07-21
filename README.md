@@ -7,7 +7,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/sismed?style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/HigorSnt/ecoleta?style=flat-square">
   <img alt="Jest" src="https://jestjs.io/img/jest-badge.svg"></br>
-  <a href="https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%HigorSnt%2Fecoleta%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/run/?label=sismed&uri=https%3A%2F%2Fraw.githubusercontent.com%HigorSnt%2Fsismed%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## :bookmark: Sobre
@@ -270,21 +270,3 @@ As rotas presentes na aplicação serão descritas abaixo:
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-<style>
-  ul {
-    list-style-type: none;
-    margin-left: 40px;
-  }
-  strong {
-    font-size: 15px;
-  }
-  details {
-    padding-left: 30px;
-  }
-
-  details > summary {
-    cursor: pointer;
-    outline: none;
-  }
-</style>
