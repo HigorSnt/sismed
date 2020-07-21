@@ -1,0 +1,36 @@
+{
+  "name": "sismed",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Consultas em um Consultório Médico",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js --ignore __tests__",
+    "knex:migrate": "knex --knexfile knexfile.js migrate:latest",
+    "pretest": "cross-env NODE_ENV=test knex --knexfile knexfile.js migrate:latest",
+    "test": "cross-env NODE_ENV=test jest --runInBand --detectOpenHandles"
+  },
+  "author": "Higor",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "celebrate": "^12.1.2",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.2",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "faker": "^4.1.0",
+    "jest": "^26.1.0",
+    "jest-extended": "^0.11.5",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5",
+    "supertest": "^4.0.2"
+  }
+}
